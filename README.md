@@ -17,10 +17,8 @@ Repositório com os principais conteúdos e atividades desenvolvidas durante o p
 
 ### 🗃️ Banco de Dados
 - [Scripts SQL e estrutura do banco](BancoDeDados/)
-
 ### 🖥️ Tecnologias em TI
-- Materiais teóricos e exercícios práticos
-
+- [Materiais teóricos e exercícios práticos](TecnologiasEmTI/)
 ---
 
 > Atualizado constantemente com novos exercícios e projetos do semestre.
